@@ -1,17 +1,8 @@
-.wrapper {
-  width: 100%;
-  max-width: 1000px;
-  margin: 70px auto;
-}
-
-.cars_container {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 1px;
-}
-.footer{
-  margin-top: 30px;
-  display: flex;
-  gap: 20px;
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
