@@ -1,0 +1,6 @@
+.car-wrapper {
+    width: 100%;
+    max-width: 220px;
+    padding: 10px;
+    box-shadow: 3px 4px 3px lightgrey;
+}
